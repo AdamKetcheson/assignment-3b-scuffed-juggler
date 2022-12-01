@@ -3,22 +3,28 @@
 # NETLIFY COMMANDS
 development build
 ```bash
-   netlify dev
+  npx netlify dev
 ```
 
 remote development build
 ```bash
-   netlify deploy --build
+  npx netlify deploy --build
 ```
 
-going live on the internet
+going live on the internet may ask you to pick a repo to build...
 ```bash
-   netlify deploy --build --prod
+  npx netlify deploy --build --prod
 ```
 
-git push...... production build
-```bash
-   netlify deploy --build --prod
+
+
+## GIT COMMAND LINE
+
+```
+   git add . 
+   git commit -m "commit message"
+   git push origin main
+
 ```
 
 
