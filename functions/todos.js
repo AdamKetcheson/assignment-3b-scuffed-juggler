@@ -10,8 +10,10 @@ export async function handler(event, context){
      // stream buffer
      const data =    await fs.readFile(filePath, "utf-8")
     
+    //  response header sent back to the client
     return {
         statusCode: 200,
         body: data
     }
 }
+

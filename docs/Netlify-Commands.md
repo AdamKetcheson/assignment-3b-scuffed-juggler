@@ -1,6 +1,6 @@
 # Juggler To Do List App
 
- 
+# NETLIFY COMMANDS
 development build
 ```bash
   npx netlify dev
