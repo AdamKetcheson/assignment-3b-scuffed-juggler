@@ -3,7 +3,7 @@ import {dateFormatter} from './../../formatters/dates';
 function work({ uid, todo, category, startDate, endDate, status }) {
  
   const template = `
-    <section class="border-l-8 border-green-500/80 py-4 px-5 mb-1 bg-white  ">
+    <section class="border-l-8 border-red-500/80 py-4 px-5 mb-1 bg-white  ">
     <header class="flex items-center justify-between">
       <h2 class="font-semibold text-[10px] text-green-600/95  bg-green-50 px-2 py-0.5 rounded-md   w-fit" >
      Work <span class="">${status}</span>

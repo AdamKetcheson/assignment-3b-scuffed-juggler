@@ -1,5 +1,5 @@
 # Juggler To Do List App: Scuffed Submission Edition
-I dunno exactly what I did wrong but the new to-do item button isn't working. Perhaps I forgot to properly commit something <:^(
+Heck yeah.
 
 ## Pre Flight Check In
 - Ready the latest version of your to do app in VS Code.
